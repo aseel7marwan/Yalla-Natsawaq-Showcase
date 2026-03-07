@@ -41,13 +41,6 @@ In many regions, local merchants struggle to reach nearby customers digitally, w
 
 ---
 
-## 📸 Screenshots
-
-> _UI showcases and visual features of the platform._
-
-_(Add your image links here using HTML <img width="400" src="..." /> tags to align them properly)_
-
----
 
 ## ✨ Key Features
 
