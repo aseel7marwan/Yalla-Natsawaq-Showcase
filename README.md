@@ -249,7 +249,7 @@ Ensure you have the following installed:
 
 ## 👤 Author & Contact
 
-_Full-Stack Softwareentwickler | IT-Assistent (i. A.)._
+**_Aspiring Full-Stack Software Engineer._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aseel-marwan-kheder-36b17033b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aseel7marwan)
